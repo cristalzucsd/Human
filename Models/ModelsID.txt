@@ -1,1 +1,0 @@
-The models used in this work were Human Model Recon3D and Mouse Model iMM1415 
